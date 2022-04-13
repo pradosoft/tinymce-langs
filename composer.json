@@ -1,0 +1,14 @@
+{
+	"name": "pradosoft/tinymce-langs",
+	"type": "library",
+	"description": "Localization files for tinyMCE",
+	"homepage": "https://github.com/pradosoft/tinymce-langs",
+	"license" : "BSD-3-Clause",
+	"authors": [
+		{
+			"name": "Fabio Bas",
+			"email": "ctrlaltca@gmail.com",
+			"role" : "Developer"
+		}
+	]
+}
